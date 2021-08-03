@@ -1,2 +1,3 @@
-id,name,categ_id/id,type,lst_price
-__export__.product_product_157,Coupon,product.coupon,service,-50
+id,lst_price,name,categ_id/id,type
+__export__.product_product_157,-50,Coupon,product.coupon,service
+__export__.product_product_300,-60,Coupon,product.coupon,service
