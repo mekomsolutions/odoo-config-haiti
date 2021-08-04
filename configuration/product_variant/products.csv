@@ -1,4 +1,4 @@
-id,name,standard_price,lst_price,uom_id/id,uuid,product_variant_ids/categ_id/id,type,uom_po_id/id
+id,name,standard_price,lst_price,uom_id/id,uuid,categ_id/id,type,uom_po_id/id
 __export__.product_product_160,Intracath #14,35,75,product.product_uom_unit,0bf43c68-051a-4b0a-8d2b-9fe7c41151c9,product.product,Stockable Product,product.product_uom_unit
 __export__.product_product_161,Intracath #18,45,75,product.product_uom_unit,7273399a-f5bb-43b2-865a-ba37d344c387,product.product,Stockable Product,product.product_uom_unit
 __export__.product_product_162,Intracath #20,45,75,product.product_uom_unit,1a21a922-6490-45a3-9009-23ed648322d5,product.product,Stockable Product,product.product_uom_unit

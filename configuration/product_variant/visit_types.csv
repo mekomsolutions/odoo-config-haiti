@@ -1,3 +1,3 @@
-id,name,product_variant_ids/categ_id/id,type,lst_price
+id,name,categ_id/id,type,lst_price
 __export__.product_product_158,Consultation prenatale,product.visitType,service,350
 __export__.product_product_159,Consultation generale,product.visitType,service,50

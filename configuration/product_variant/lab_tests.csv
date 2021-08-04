@@ -1,4 +1,4 @@
-id,product_variant_ids/uuid,name,product_variant_ids/categ_id/id,type,lst_price
+id,uuid,name,categ_id/id,type,lst_price
 __export__.product_product_197,91d1dba5-bd31-4f0f-857a-1fae38165a6d,Glycemie,product.labOrder,service,90
 __export__.product_product_198,00ce9624-11e3-4015-b695-d7ff7cb3930e,Groupe sanguin,product.labOrder,service,90
 __export__.product_product_199,508c9da4-56f9-4129-9a0e-766fb8e74f3e,Malaria,product.labOrder,service,85
