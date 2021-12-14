@@ -1,5 +1,5 @@
 id,name,discount_policy,sequence,currency_id/id,item_ids/applied_on,item_ids/base,item_ids/compute_price,item_ids/min_quantity,item_ids/fixed_price,item_ids/product_tmpl_id/id
-init.product_pricelist_Insurance_Selective,Insurance Pay - Selective Case,Discount included in the price,3,base.HTG,Product,Public Price,Fix Price,1,350,PDT1001
+init.product_pricelist_Insurance_Selective,Insurance Pay - Selective Case,Discount included in the price,3,base.HTG,Product,Sales Price,Fixed Price,1,350,PDT1001
 ,,,,,Product,Public Price,Fix Price,1,350,PDT1002
 ,,,,,Product,Public Price,Fix Price,1,350,PDT1003
 ,,,,,Product,Public Price,Fix Price,1,350,PDT1004

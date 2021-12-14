@@ -1,5 +1,0 @@
-id,order_type/id,shop_id/id
-haiti.pharmacymapProduct,haiti.Product,haiti.pharmacy
-haiti.pharmacymapRadiology,haiti.Radiology,haiti.pharmacy
-haiti.pharmacymapLabTest,haiti.LabTest,haiti.pharmacy
-haiti.pharmacymapDrug,haiti.Drug,haiti.pharmacy
