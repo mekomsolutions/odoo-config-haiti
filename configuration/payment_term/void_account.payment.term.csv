@@ -1,3 +1,3 @@
-"id","active"
-"account.account_payment_term_15days","False"
-"account.account_payment_term_net","False"
+"id","active",name
+"account.account_payment_term_15days","False",15 Days
+"account.account_payment_term_net","False",Immediate Payment
