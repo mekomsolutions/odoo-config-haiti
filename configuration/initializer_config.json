@@ -4,6 +4,26 @@
             "model_name": "account.tax",
             "folder": "taxes",
             "field_rules": {}
+        },
+        {
+            "model_name": "stock.picking.type",
+            "folder": "stock_picking_type",
+            "field_rules": {}
+        },
+        {
+            "model_name": "stock.warehouse",
+            "folder": "warehouse",
+            "field_rules": {}
+        },
+        {
+            "model_name": "mrp.bom",
+            "folder": "bill_of_material",
+            "field_rules": {}
+        },
+        {
+            "model_name": "coupon.program",
+            "folder": "coupon_program",
+            "field_rules": {}
         }
     ]
 }
