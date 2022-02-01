@@ -19,11 +19,6 @@
             "model_name": "mrp.bom",
             "folder": "bill_of_material",
             "field_rules": {}
-        },
-        {
-            "model_name": "coupon.program",
-            "folder": "coupon_program",
-            "field_rules": {}
         }
     ]
 }
