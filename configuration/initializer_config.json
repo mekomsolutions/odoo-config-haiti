@@ -4,6 +4,11 @@
             "model_name": "account.tax",
             "folder": "taxes",
             "field_rules": {}
+        },
+        {
+            "model_name": "stock.picking.type",
+            "folder": "stock_picking_type",
+            "field_rules": {}
         }
     ]
 }
