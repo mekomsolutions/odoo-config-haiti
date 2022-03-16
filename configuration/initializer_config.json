@@ -9,6 +9,11 @@
             "model_name": "stock.picking.type",
             "folder": "stock_picking_type",
             "field_rules": {}
+        },
+        {
+            "model_name": "stock.location.route",
+            "folder": "stock_location_route",
+            "field_rules": {}
         }
     ]
 }
