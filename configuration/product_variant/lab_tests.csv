@@ -5,7 +5,7 @@ init.508c9da4-56f9-4129-9a0e-766fb8e74f3e,Malaria,product.categ_services_lab_tes
 init.7036964e-e177-465e-8af8-b1b761f290c5,Vitesse de sedimentation,product.categ_services_lab_test_orders,service,FALSE,Ordered quantities
 init.a60b7de5-d126-4b28-8efc-2a81de5165f0,Widal,product.categ_services_lab_test_orders,service,FALSE,Ordered quantities
 init.92f1d76a-4091-4b99-83d4-633b5fbd096e,H. Pylori,product.categ_services_lab_test_orders,service,FALSE,Ordered quantities
-init.382c9fa6-81d8-48c7-8b45-7866f5473030,Test de faucille,product.categ_services_lab_test_orders,service,FALSE,Ordered quantities
+init.382c9fa6-81d8-48c7-8b45-7866f5473030,Sickling Test,product.categ_services_lab_test_orders,service,FALSE,Ordered quantities
 init.3fb9fc5a-3a35-4298-9a92-c24853adf4f9,Hematocrite,product.categ_services_lab_test_orders,service,FALSE,Ordered quantities
 init.0758ec9f-efd5-4421-a6ee-41aa397f05a9,Taux de leucocytes,product.categ_services_lab_test_orders,service,FALSE,Ordered quantities
 init.3cf0a904-b1ad-4c35-b2d3-20634e2c4820,Taux d’hematies,product.categ_services_lab_test_orders,service,FALSE,Ordered quantities
@@ -77,4 +77,3 @@ init.4b81c46d-ca6d-4e76-928e-5c90e76a8df7,Parasites de selles,product.categ_serv
 init.1e196dd0-243f-4473-8103-cf7e52679e73,Microscopie des selles,product.categ_services_lab_test_orders,service,FALSE,Ordered quantities
 init.c960002a-a4fd-425d-b24a-c255862e3e03,Analyse des selles,product.categ_services_lab_test_orders,service,FALSE,Ordered quantities
 init.94bea8da-9133-4f8f-bdb4-9118838ef6b0,Bacilloscopie des crachats en serie,product.categ_services_lab_test_orders,service,FALSE,Ordered quantities
-init.8cf658ad-2dd1-47b3-bcbd-442411943792,Sickling Test,product.categ_services_lab_test_orders,service,FALSE,Ordered quantities
