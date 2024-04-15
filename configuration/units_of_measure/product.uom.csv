@@ -9,7 +9,7 @@ init.e6727dc7-967d-4bf6-9caf-af8a4997a62d,uom.product_uom_categ_unit,1,0.01,Bigg
 init.5fa6126f-dc1a-42d4-bfda-b3b9e2cd3b90,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Bouffee(s)
 init.6fa802c9-5ad8-4e0b-9b8b-d80e4d91b21d,uom.product_uom_categ_unit,67.628,0.01,Smaller than the reference Unit of Measure,Cuillere(s) a soupe
 init.6fbbb779-94ca-4d83-8e02-8a559627b9fb,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Comprime(s)
-init.8dde1a97-11d6-4d78-95a2-c7b2d0db9eb8,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Ovule(s)
+init.e946eb88-c6ce-481a-8f76-a979f684fada,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Ovule(s)
 init.89a91a0c-35d4-45b9-a87d-dac77df05c81,uom.product_uom_categ_unit,202.884,0.01,Smaller than the reference Unit of Measure,Cuillere(s) a cafe
 init.5de903e6-2a66-4253-891d-86558e1282d2,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Fiole(s)
 init.d34c85d0-f1c5-44d1-bfe3-d19d5ec875b1,uom.product_uom_categ_unit,1000000,0.01,Smaller than the reference Unit of Measure,mg
